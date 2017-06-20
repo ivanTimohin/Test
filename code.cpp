@@ -4,3 +4,4 @@ Izvini
 Nichego
 Nu chto ty?
 Hey
+Normasik =)
