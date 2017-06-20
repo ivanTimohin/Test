@@ -1,4 +1,5 @@
 Hi, Vania!
 Nu priveet, braat
 Izvini
-hello
+Nichego
+Nu chto ty?
