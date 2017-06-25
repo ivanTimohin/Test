@@ -1,4 +1,4 @@
-#include <stdio.h>
+{#include <stdio.h>
 #include <locale.h>
 void StringCopy();
 int main() {
@@ -24,3 +24,4 @@ void StringCopy()
 	newline[t] = 0;
 	printf("Скопированная строка = %s\n", newline);
 }
+Hi
