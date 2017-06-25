@@ -7,5 +7,4 @@ Hey
 Normasik =)
 testtest
 Privet, IGOR!
-  
-Heil Hitler!
+A-Ta-Ta Tak dalat`
